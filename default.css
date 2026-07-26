@@ -1,11 +1,13 @@
-body {
+
+ body {
   margin: 0;
   padding: 0;
-  background-image: url('story_0.png');
-   background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+  /* ใส่ชื่อไฟล์รูปของคุณตรงนี้ สังเกตว่าลบ ../ ออกไปแล้ว */
+  background-image: url('story_0.png'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 
   font-size: 14px;
   font-family: sans-serif;
